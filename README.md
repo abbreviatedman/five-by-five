@@ -20,7 +20,7 @@ Every list should be a `<ul>` with five `<li>`s. Each of those items should _its
 Stretch Goals 
 
 * Move the images locally! You can save them from the browser to your Downloads folder, then `mv` them to a directory in your project. What directory? The common thing is to name it "assets", but you can call it "images" or whatever you want. You'll have to change your `a` tags' `href` attributes, for sure!
-* Take a list and give three reasons for each item in it. Make those three reasons their own sub-sub-sub-list. An example (if _each_ player below had three reasons given!):
+* Take a list and give three reasons for each item in it. Make those three reasons their own sub-sub-sub-list. An example:
 
     >>Top 5 Red Sox Players
     >>
